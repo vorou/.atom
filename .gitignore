@@ -1,0 +1,9 @@
+local-history
+storage
+compile-cache
+dev
+.npm
+.node-gyp
+.apm
+packages
+blob-store

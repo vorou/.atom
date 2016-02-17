@@ -1,0 +1,25 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "060e9cc3-ce26-4fbf-a7d2-e2d32252dc0b"
+    c_configPath: "C:\\Users\\vorou\\.uncrustify\\defaults.cfg"
+  autosave:
+    enabled: true
+  core:
+    audioBeep: false
+    autoHideMenuBar: true
+    disabledPackages: [
+      "welcome"
+      "wrap-guide"
+      "background-tips"
+      "spell-check"
+    ]
+  editor:
+    fontFamily: "Consolas"
+    fontSize: 20
+    invisibles: {}
+  "exception-reporting":
+    audioBeep: false
+    userId: "c68767ff-a030-113c-fbda-d869f86721cb"
+  "find-and-replace":
+    scrollToResultOnLiveSearch: true
+  "spell-check": {}
